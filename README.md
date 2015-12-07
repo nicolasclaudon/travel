@@ -6,5 +6,6 @@ Travel Recommendation Rest over Spark
 
 # Testing
 Into your browser access:
+
     http://localhost:5432/1/reco
     
